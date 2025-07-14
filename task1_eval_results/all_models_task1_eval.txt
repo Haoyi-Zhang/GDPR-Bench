@@ -1,0 +1,200 @@
+==== Model: claude-3-5-sonnet-20241022 ====
+==== file_level_violations ====
+Accuracy@1: 0.1257
+Accuracy@2: 0.2974
+Accuracy@3: 0.3940
+Accuracy@4: 0.4760
+Accuracy@5: 0.5623
+
+==== module_level_violations ====
+Accuracy@1: 0.1254
+Accuracy@2: 0.2920
+Accuracy@3: 0.3710
+Accuracy@4: 0.4553
+Accuracy@5: 0.5351
+
+==== line_level_violations ====
+Accuracy@1: 0.1840
+Accuracy@2: 0.4768
+Accuracy@3: 0.6428
+Accuracy@4: 0.7069
+Accuracy@5: 0.7418
+
+Evaluation finished.
+
+
+==== Model: claude-3-7-sonnet-20250219 ====
+==== file_level_violations ====
+Accuracy@1: 0.1439
+Accuracy@2: 0.3050
+Accuracy@3: 0.3849
+Accuracy@4: 0.4684
+Accuracy@5: 0.5433
+
+==== module_level_violations ====
+Accuracy@1: 0.1519
+Accuracy@2: 0.3233
+Accuracy@3: 0.3913
+Accuracy@4: 0.4992
+Accuracy@5: 0.5875
+
+==== line_level_violations ====
+Accuracy@1: 0.3732
+Accuracy@2: 0.6026
+Accuracy@3: 0.7155
+Accuracy@4: 0.7829
+Accuracy@5: 0.8039
+
+Evaluation finished.
+
+
+==== Model: deepseek-r1 ====
+==== file_level_violations ====
+Accuracy@1: 0.1462
+Accuracy@2: 0.3311
+Accuracy@3: 0.4031
+Accuracy@4: 0.4837
+Accuracy@5: 0.5732
+
+==== module_level_violations ====
+Accuracy@1: 0.1323
+Accuracy@2: 0.3193
+Accuracy@3: 0.3843
+Accuracy@4: 0.4533
+Accuracy@5: 0.5389
+
+==== line_level_violations ====
+Accuracy@1: 0.3734
+Accuracy@2: 0.6817
+Accuracy@3: 0.7447
+Accuracy@4: 0.7596
+Accuracy@5: 0.7602
+
+Evaluation finished.
+
+
+==== Model: gemini-2.5-pro-exp-03-25 ====
+==== file_level_violations ====
+Accuracy@1: 0.1289
+Accuracy@2: 0.2957
+Accuracy@3: 0.4072
+Accuracy@4: 0.4612
+Accuracy@5: 0.5612
+
+==== module_level_violations ====
+Accuracy@1: 0.1349
+Accuracy@2: 0.3213
+Accuracy@3: 0.4261
+Accuracy@4: 0.4799
+Accuracy@5: 0.5905
+
+==== line_level_violations ====
+Accuracy@1: 0.1757
+Accuracy@2: 0.4353
+Accuracy@3: 0.6496
+Accuracy@4: 0.7411
+Accuracy@5: 0.8381
+
+Evaluation finished.
+
+
+==== Model: gemini-2.5-pro-preview-05-06 ====
+==== file_level_violations ====
+Accuracy@1: 0.1315
+Accuracy@2: 0.3014
+Accuracy@3: 0.3981
+Accuracy@4: 0.4811
+Accuracy@5: 0.5903
+
+==== module_level_violations ====
+Accuracy@1: 0.1315
+Accuracy@2: 0.2989
+Accuracy@3: 0.3947
+Accuracy@4: 0.4899
+Accuracy@5: 0.5858
+
+==== line_level_violations ====
+Accuracy@1: 0.1767
+Accuracy@2: 0.4438
+Accuracy@3: 0.6515
+Accuracy@4: 0.7555
+Accuracy@5: 0.8390
+
+Evaluation finished.
+
+
+==== Model: gpt-4o ====
+==== file_level_violations ====
+Accuracy@1: 0.0905
+Accuracy@2: 0.2018
+Accuracy@3: 0.2569
+Accuracy@4: 0.3156
+Accuracy@5: 0.3548
+
+==== module_level_violations ====
+Accuracy@1: 0.1007
+Accuracy@2: 0.2212
+Accuracy@3: 0.2765
+Accuracy@4: 0.3261
+Accuracy@5: 0.3785
+
+==== line_level_violations ====
+Accuracy@1: 0.6523
+Accuracy@2: 0.7250
+Accuracy@3: 0.7332
+Accuracy@4: 0.7417
+Accuracy@5: 0.7417
+
+Evaluation finished.
+
+
+==== Model: o1 ====
+==== file_level_violations ====
+Accuracy@1: 0.0253
+Accuracy@2: 0.0560
+Accuracy@3: 0.0600
+Accuracy@4: 0.0693
+Accuracy@5: 0.0810
+
+==== module_level_violations ====
+Accuracy@1: 0.0098
+Accuracy@2: 0.0339
+Accuracy@3: 0.0449
+Accuracy@4: 0.0584
+Accuracy@5: 0.0758
+
+==== line_level_violations ====
+Accuracy@1: 0.3760
+Accuracy@2: 0.4709
+Accuracy@3: 0.4800
+Accuracy@4: 0.4813
+Accuracy@5: 0.4813
+
+Evaluation finished.
+
+
+==== Model: qwen2.5-72b-instruct ====
+==== file_level_violations ====
+Accuracy@1: 0.0712
+Accuracy@2: 0.1578
+Accuracy@3: 0.2037
+Accuracy@4: 0.2410
+Accuracy@5: 0.2481
+
+==== module_level_violations ====
+Accuracy@1: 0.0737
+Accuracy@2: 0.1763
+Accuracy@3: 0.2110
+Accuracy@4: 0.2536
+Accuracy@5: 0.2696
+
+==== line_level_violations ====
+Accuracy@1: 0.6854
+Accuracy@2: 0.7687
+Accuracy@3: 0.7901
+Accuracy@4: 0.8070
+Accuracy@5: 0.8106
+
+Evaluation finished.
+
+

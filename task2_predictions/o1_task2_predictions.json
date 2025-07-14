@@ -1,0 +1,2248 @@
+[
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/test/MainActivity2.java: line 202",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/test/MainActivity2.java: lines 130-131",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/models/DataClasses.kt: line 4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/models/DataClasses.kt: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/models/DataClasses.kt: line 6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/models/DataClasses.kt: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/MainActivity.kt: lines 49-50",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/MainActivity.kt: line 27",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/ScreenProjectionActivity.kt: line 52",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/ScreenProjectionActivity.kt: lines 61-62",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/ScreenProjectionActivity.kt: line 45",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/activities/ScreenProjectionActivity.kt: lines 41-44",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/services/NotificationReadService.kt: line 13",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/services/NotificationReadService.kt: line 19",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/AddNewContact.kt: line 12",
+    "violated_articles": [
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/CallLogsTask.kt: lines 22-23",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/CallLogsTask.kt: line 78",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/DownloadImage.kt: lines 16-24",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/DownloadImage.kt: line 13",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/ContactsTask.kt: lines 32-33",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/ContactsTask.kt: line 46",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/ContactsTask.kt: lines 61-66",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/LocationMonitor.kt: lines 81-92",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/LocationMonitor.kt: line 91",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsForwarder.kt: lines 58-60",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsForwarder.kt: lines 73-76",
+    "violated_articles": [
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsForwarder.kt: lines 89-90",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsForwarder.kt: line 60",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsForwarder.kt: line 19",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/PhotosTask.kt: line 29",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/PhotosTask.kt: line 65",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsTask.kt: line 22",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsTask.kt: line 66",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/SmsTask.kt: line 48",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/StreamCamera.kt: line 28",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/StreamCamera.kt: lines 53-56",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/StreamCamera.kt: lines 139-145",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/StreamScreen.kt: line 64",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/TakeScreenShot.kt: line 22",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/TakeScreenShot.kt: lines 61-66",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/tasks/TakeScreenShot.kt: line 66",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/utils/CommonParams.kt: line 15",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/utils/CommonParams.kt: line 19",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/utils/CommonParams.kt: line 20",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/java/me/hawkshaw/utils/CommonParams.kt: line 18",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/xml/serviceconfig.xml: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/xml/serviceconfig.xml: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/xml/serviceconfig.xml: line 3",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/values/strings.xml: line 2",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/values/strings.xml: line 3",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/values/strings.xml: line 4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/values/strings.xml: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/abhinavsuthar/Android_Spy_App",
+    "app_name": "Android_Spy_App",
+    "Commit_ID": "d524cef38b5526861a724f3f9b08b8b9a4a3d06a",
+    "code_snippet_path": "app/src/main/res/values/strings.xml: line 6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "cc45656439f2905a8cdd7e3349b8f1fe29772156",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/data/model/Child.kt: line 8",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "cc45656439f2905a8cdd7e3349b8f1fe29772156",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/data/model/ChildPhoto.kt: lines 6-18",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "cc45656439f2905a8cdd7e3349b8f1fe29772156",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/data/model/Social.kt: line 9",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 25-27",
+    "violated_articles": [
+      5,
+      6,
+      7,
+      12,
+      13,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 88-90",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 37-39",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 104-106",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 28-30",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "039d5ebadef413c9c109716388d11b66cb0de5f0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/di/module/ActivityModule.kt: lines 80-82",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "98c23eee465aab71284597ba47b87e23f542982f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/data/rxFirebase/RxTask.kt: line 43",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "1bb717aa683e3c202532c8f09a5123d91e449f70",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/calls/CallsService.kt: line 47",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "1bb717aa683e3c202532c8f09a5123d91e449f70",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/calls/CallsService.kt: lines 44-45",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "1bb717aa683e3c202532c8f09a5123d91e449f70",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/calls/CallsService.kt: line 16",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "1bb717aa683e3c202532c8f09a5123d91e449f70",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/calls/CallsService.kt: lines 18-19",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e904aa795e9cdaed785bae433ec31a1233064122",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/sms/InteractorSms.kt: lines 17-22",
+    "violated_articles": [
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e904aa795e9cdaed785bae433ec31a1233064122",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/sms/InteractorSms.kt: line 19",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e904aa795e9cdaed785bae433ec31a1233064122",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/sms/SmsObserver.kt: lines 27-28",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e904aa795e9cdaed785bae433ec31a1233064122",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/sms/SmsObserver.kt: line 28",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e904aa795e9cdaed785bae433ec31a1233064122",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/sms/SmsService.kt: lines 30-32",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "bbe4a958ceaecce388493df6c79958596e3c0dc0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/social/MonitorService.kt: lines 43-47",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "bbe4a958ceaecce388493df6c79958596e3c0dc0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/social/MonitorService.kt: lines 16-21",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "bbe4a958ceaecce388493df6c79958596e3c0dc0",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/social/MonitorService.kt: lines 29-35",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 91",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 96",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 95",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 192",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 92",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 185",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "3571ec1180d60f316ff78f0b7cb0f3e1df1837c5",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainchild/MainChildActivity.kt: line 101",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "f26612e319dfae80a2814db66751d0619fe76bfb",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/mainparent/InteractorMainParent.kt: line 95",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "4b1c280e82926229c5be5756cb25684f5b2355b3",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/activities/socialphishing/SocialActivityM.kt: lines 42-43",
+    "violated_articles": [
+      25
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: line 43",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: line 46",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: line 74",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: line 77",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: line 19",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "adb9f23663aeed10b31774341340506c9fbcdb0f",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/baseadapter/FirebaseArray.kt: lines 21-25",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "b5cb8b15e82f51485fa718ebb671723b81e13d95",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/basedapter/BaseInterfaceAdapter.kt: line 14",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "b5cb8b15e82f51485fa718ebb671723b81e13d95",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/basedapter/BaseInterfaceAdapter.kt: line 15",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "b5cb8b15e82f51485fa718ebb671723b81e13d95",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/basedapter/BaseInterfaceAdapter.kt: line 16",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "b5cb8b15e82f51485fa718ebb671723b81e13d95",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/basedapter/BaseInterfaceAdapter.kt: line 11",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "b5cb8b15e82f51485fa718ebb671723b81e13d95",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/basedapter/BaseInterfaceAdapter.kt: line 9",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "7c4aa65af92409672c4d7ff357b2b40134b22e5a",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/keysadapter/InterfaceKeysAdapter.kt: lines 5-7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "9c639fb7269e459e9cf13cc34e29c82bbad3aece",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/notifyadapter/NotifyMessageRecyclerAdapter.kt: line 43",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "9c639fb7269e459e9cf13cc34e29c82bbad3aece",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/notifyadapter/NotifyMessageRecyclerAdapter.kt: line 47",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "c4a50c653f4859780b4b6964365a2381198f53d2",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/recordingadapter/RecordingViewHolder.kt: line 48",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "c4a50c653f4859780b4b6964365a2381198f53d2",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/recordingadapter/RecordingViewHolder.kt: lines 82-91",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "c4a50c653f4859780b4b6964365a2381198f53d2",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/adapters/recordingadapter/RecordingViewHolder.kt: lines 95-96",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "df054d059a502040ae60e38a7247862bc85bfb06",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/keylog/KeysFragment.kt: lines 82-90",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "df054d059a502040ae60e38a7247862bc85bfb06",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/keylog/KeysFragment.kt: lines 72-75",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "df054d059a502040ae60e38a7247862bc85bfb06",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/keylog/KeysFragment.kt: lines 151-158",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "df054d059a502040ae60e38a7247862bc85bfb06",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/keylog/KeysFragment.kt: line 31",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "650f401e9f9109d42f28c903e33ca436361b3195",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/recording/RecordingFragment.kt: lines 81-90",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "650f401e9f9109d42f28c903e33ca436361b3195",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/recording/RecordingFragment.kt: lines 161-169",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "5888d7113543a128d9347d1bba0f8bc3ac5c97c8",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/social/InterfaceViewSocial.kt: lines 9-14",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "5888d7113543a128d9347d1bba0f8bc3ac5c97c8",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/ui/fragments/social/SocialFragment.kt: lines 63-64",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "49b0c1c179b99722b693a7151d6776f5fc54ab72",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/utils/Dialogs.kt: lines 58-60",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "49b0c1c179b99722b693a7151d6776f5fc54ab72",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/utils/Dialogs.kt: lines 38-41",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "49b0c1c179b99722b693a7151d6776f5fc54ab72",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/utils/FileHelper.kt: lines 52-67",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "includes/databaseGateway.js: lines 25-34",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "includes/databaseGateway.js: line 21",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "includes/databaseGateway.js: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "app/factory/decompiled/build/apk/AndroidManifest.xml: line 12",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "app/factory/decompiled/build/apk/AndroidManifest.xml: line 10",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "includes/const.js: lines 23-37",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MainActivity.java: line 103",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MainActivity.java: lines 58-64",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/MyAccessibilityService.java: lines 51-55",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/MyAccessibilityService.java: lines 71-75",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/MyAccessibilityService.java: lines 89-92",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/MyAccessibilityService.java: lines 120-123",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/MyAccessibilityService.java: lines 119-122",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MyAccessibilityService.java: line 51",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MyAccessibilityService.java: line 71",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MyAccessibilityService.java: line 119",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MyAccessibilityService.java: line 23",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "app/src/main/java/com/MyAccessibilityService.java: lines 131-137",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/efxtv/L3MON",
+    "app_name": "L3MON",
+    "Commit_ID": "a376acb0a50831cb2e731f71ad100bdc70ab14d5",
+    "code_snippet_path": "assets/webpublic/js/semantic.min.js: line 11",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Gmail/MyAccessibilityService.java: line 29",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Gmail/MyAccessibilityService.java: line 59",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/MyAccessibilityService.java: lines 61-70",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/MyAccessibilityService.java: lines 129-137",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/MyAccessibilityService.java: line 93",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/strings.xml: line 4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/strings.xml: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Discord/strings.xml: line 6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/strings.xml: line 6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/strings.xml: lines 7-8",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/IP/strings.xml: lines 3-4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Gmail/strings.xml: line 6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Gmail/strings.xml: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/Gmail/strings.xml: line 8",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Discord_HTML.py: line 21",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "Versions/NonStealth/AndroidManifest.xml: lines 14-15",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "PounceKeys.py: lines 25-27",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "PounceKeys.py: lines 42-44",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "PounceKeys.py: lines 59-61",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "PounceKeys.py: lines 88-90",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "PounceKeys.py: line 100",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Scripts.js: line 37",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Scripts.js: line 22",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Scripts.js: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Scripts.js: line 65",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Scripts.js: lines 80-81",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "build-tools/34.0.0/renderscript/clang-include/opencl-c.h: line 15569",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Gmail.html: lines 69-72",
+    "violated_articles": [
+      5,
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Gmail.html: lines 83-85",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Gmail.html: line 84",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/NullPounce/pounce-keys",
+    "app_name": "pounce-keys",
+    "Commit_ID": "0bbd37e2b01baf932ea3a17a2ae1a194575b5c1f",
+    "code_snippet_path": "web/Gmail.html: line 90",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "49baca41451be4c66d90c764c0af7da2ff5f987f",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/MainActivity.java: lines 32-36",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PhoneLogRecyclerAdapter.java: line 39",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "1067f80b6da3d8df33a1bbcee09b520172f7d7aa",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PrivacyBreacherService.java: lines 45-46",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "1067f80b6da3d8df33a1bbcee09b520172f7d7aa",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PrivacyBreacherService.java: line 22",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "1067f80b6da3d8df33a1bbcee09b520172f7d7aa",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PrivacyBreacherService.java: lines 39-44",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/SensorFusion.java: lines 106-109",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/SensorFusion.java: lines 111-114",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/SensorFusion.java: lines 114-117",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 37-38",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 48-49",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 63-64",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 66-67",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 74-75",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 81-82",
+    "violated_articles": [
+      5,
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "63719ad58a8dbad0291cf07a0e1c5272a6ab452e",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/EventReceiver.java: lines 84-85",
+    "violated_articles": [
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PhysicalMonitorActivity.java: line 37",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/nandan-desai-extras/PrivacyBreacher",
+    "app_name": "PrivacyBreacher",
+    "Commit_ID": "296df1123887d115165d5d8ab2ff7a6fe8049761",
+    "code_snippet_path": "app/src/main/java/io/nandandesai/privacybreacher/PhysicalMonitorActivity.java: lines 30-34",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/Aes.java: line 17",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/Aes.java: line 37",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/Aes.java: line 74",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/Aes.java: line 82",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/ForegroundService.java: lines 35-36",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/ForegroundService.java: lines 41-42",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/ForegroundService.java: lines 28-33",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/JobWakeService.java: lines 37-47",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/JobWakeService.java: lines 25-35",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6398b6ccb48b5039c2ddfc7441ce2adbcc550054",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/NotificationListener.java: line 45",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6398b6ccb48b5039c2ddfc7441ce2adbcc550054",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/NotificationListener.java: lines 35-36",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "a2a556c05ffa309aca8068a21194b1fcd5a0e729",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/MainActivity.java: line 119",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "a2a556c05ffa309aca8068a21194b1fcd5a0e729",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/MainActivity.java: line 129",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "a2a556c05ffa309aca8068a21194b1fcd5a0e729",
+    "code_snippet_path": "BlackMart/app/src/main/java/com/velociraptor/raptor/MainActivity.java: lines 111-112",
+    "violated_articles": [
+      6,
+      7
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/res/values/strings.xml: line 2",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/res/values/strings.xml: lines 3-4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/res/values/strings.xml: lines 5-6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "e9da17d17989e484a807fa4c472580c4d8956009",
+    "code_snippet_path": "BlackMart/app/src/main/res/values/strings.xml: lines 7-8",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "c46e8602bbfad0deded1359f7c7193cf085273d2",
+    "code_snippet_path": "Server_Panel/public/login.php: lines 5-8",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "c46e8602bbfad0deded1359f7c7193cf085273d2",
+    "code_snippet_path": "Server_Panel/public/login.php: line 65",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "793e1a6f4c43f8126405ac202befe121da6347fc",
+    "code_snippet_path": "Server_Panel/public/modules/deletecalls.php: lines 55-61",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "5bb61c6d7042da7ab9cdc3c132183f2fe03daaef",
+    "code_snippet_path": "Server_Panel/public/modules/ransomware.php: lines 55-62",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/browser_history.php: lines 3-5",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/browser_history.php: lines 1-5",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/browser_history.php: line 107",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/browser_history.php: lines 3-4",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/text-speech.php: lines 53-54",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/swagkarna/Rafel-Rat",
+    "app_name": "Rafel_Rat",
+    "Commit_ID": "6190097dbc5ba03cea4d6f0cfaabd276e021abc7",
+    "code_snippet_path": "Server_Panel/public/modules/text-speech.php: lines 58-65",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/info.php: line 2",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/info.php: lines 5-6",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/info.php: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/info.php: line 27",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 6",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: lines 5-6",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: lines 44-45",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: lines 47-48",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: lines 59-60",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 48",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 51",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 62",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 83",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/api.php: line 4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/login.php: lines 6-7",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/about.php: lines 28-29",
+    "violated_articles": [
+      5,
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "ff1a055695fb292a9d5d5c46031f8fffdb313e41",
+    "code_snippet_path": "android/rdroid-WEB/complete_functions.php: line 46",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "ff1a055695fb292a9d5d5c46031f8fffdb313e41",
+    "code_snippet_path": "android/rdroid-WEB/complete_functions.php: lines 64-66",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "ff1a055695fb292a9d5d5c46031f8fffdb313e41",
+    "code_snippet_path": "android/rdroid-WEB/complete_functions.php: line 89",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "ff1a055695fb292a9d5d5c46031f8fffdb313e41",
+    "code_snippet_path": "android/rdroid-WEB/complete_functions.php: lines 129-131",
+    "violated_articles": [
+      25,
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/soundrecorder.php: lines 102-104",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/webapi.php: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/webapi.php: lines 17-20",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/webapi.php: lines 9-16",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/webapi.php: lines 15-16",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/account/add.php: lines 63-67",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/account/add.php: lines 34-35",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/filemanager/index.php: line 60",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/filemanager/index.php: lines 69-71",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/filemanager/gs_connector.php: lines 105-110",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/filemanager/gs_connector.php: lines 657-662",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/filemanager/gs_class.php: lines 142-147",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/db.php: line 6",
+    "violated_articles": [
+      32
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/db.php: line 9",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/templateClass.php: line 37",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/templateClass.php: line 169",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/head/fblike-head.php: lines 2-9",
+    "violated_articles": [
+      5,
+      6,
+      7,
+      12,
+      13,
+      44,
+      46
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/include/head/extrahead.php: lines 3-6",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "208200d5eb4222a4ac7cc7acaeb84ed3aa06bf4a",
+    "code_snippet_path": "web/include/raw/body/topmenu.php: lines 18-19",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "208200d5eb4222a4ac7cc7acaeb84ed3aa06bf4a",
+    "code_snippet_path": "web/include/raw/body/topmenu.php: lines 20-21",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "208200d5eb4222a4ac7cc7acaeb84ed3aa06bf4a",
+    "code_snippet_path": "web/include/raw/head/fblike-head.php: lines 2-9",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "208200d5eb4222a4ac7cc7acaeb84ed3aa06bf4a",
+    "code_snippet_path": "web/include/raw/head/fblike-head.php: line 7",
+    "violated_articles": [
+      6,
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/list.php: line 4",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/list.php: line 5",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/list.php: line 7",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/list.php: lines 9-10",
+    "violated_articles": [
+      0
+    ]
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/register.php: lines 30-34",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/m301/rdroid",
+    "app_name": "rdroid",
+    "Commit_ID": "d5d2d58bb9631da0ced7f3ca3b247d1da58ab2d5",
+    "code_snippet_path": "web/user/register.php: lines 48-55",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e6a836add483d507871948dc739c0ca1485441bd",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/notificationService/NotificationService.kt: lines 43-47",
+    "violated_articles": []
+  },
+  {
+    "repo_url": "https://github.com/muneebwanee/Dash",
+    "app_name": "Dash",
+    "Commit_ID": "e6a836add483d507871948dc739c0ca1485441bd",
+    "code_snippet_path": "app/src/main/kotlin/com/github/muneebwanee/dash/services/notificationService/NotificationService.kt: line 50",
+    "violated_articles": [
+      0
+    ]
+  }
+]

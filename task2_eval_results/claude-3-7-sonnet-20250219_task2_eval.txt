@@ -1,0 +1,32 @@
+Accuracy: 0.0862
+Macro-Precision: 0.0352
+Macro-Recall: 0.0439
+Macro-F1: 0.0374
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3333, Recall=0.3372, F1=0.3353
+  Article 6: Precision=0.2718, Recall=0.2222, F1=0.2445
+  Article 7: Precision=0.0732, Recall=0.2222, F1=0.1101
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.0286, Recall=0.0513, F1=0.0367
+  Article 13: Precision=0.0625, Recall=0.1034, F1=0.0779
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0222, Recall=0.0357, F1=0.0274
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0532, Recall=0.0820, F1=0.0645
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.

@@ -1,0 +1,22 @@
+==== file_level_violations ====
+Accuracy@1: 0.0712
+Accuracy@2: 0.1578
+Accuracy@3: 0.2037
+Accuracy@4: 0.2410
+Accuracy@5: 0.2481
+
+==== module_level_violations ====
+Accuracy@1: 0.0737
+Accuracy@2: 0.1763
+Accuracy@3: 0.2110
+Accuracy@4: 0.2536
+Accuracy@5: 0.2696
+
+==== line_level_violations ====
+Accuracy@1: 0.6854
+Accuracy@2: 0.7687
+Accuracy@3: 0.7901
+Accuracy@4: 0.8070
+Accuracy@5: 0.8106
+
+Evaluation finished.

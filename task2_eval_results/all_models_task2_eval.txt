@@ -1,0 +1,280 @@
+==== Model: claude-3-5-sonnet-20241022 ====
+Accuracy: 0.1048
+Macro-Precision: 0.0432
+Macro-Recall: 0.0787
+Macro-F1: 0.0523
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3727, Recall=0.4767, F1=0.4184
+  Article 6: Precision=0.3008, Recall=0.2937, F1=0.2972
+  Article 7: Precision=0.0796, Recall=0.3333, F1=0.1286
+  Article 8: Precision=0.1000, Recall=0.3333, F1=0.1538
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.0465, Recall=0.1026, F1=0.0640
+  Article 13: Precision=0.0625, Recall=0.1207, F1=0.0824
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0625, Recall=0.1964, F1=0.0948
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0116, Recall=0.0328, F1=0.0172
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: claude-3-7-sonnet-20250219 ====
+Accuracy: 0.0862
+Macro-Precision: 0.0352
+Macro-Recall: 0.0439
+Macro-F1: 0.0374
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3333, Recall=0.3372, F1=0.3353
+  Article 6: Precision=0.2718, Recall=0.2222, F1=0.2445
+  Article 7: Precision=0.0732, Recall=0.2222, F1=0.1101
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.0286, Recall=0.0513, F1=0.0367
+  Article 13: Precision=0.0625, Recall=0.1034, F1=0.0779
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0222, Recall=0.0357, F1=0.0274
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0532, Recall=0.0820, F1=0.0645
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: deepseek-r1 ====
+Accuracy: 0.1191
+Macro-Precision: 0.0454
+Macro-Recall: 0.0588
+Macro-F1: 0.0496
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.4022, Recall=0.4302, F1=0.4157
+  Article 6: Precision=0.2797, Recall=0.2619, F1=0.2705
+  Article 7: Precision=0.0476, Recall=0.0741, F1=0.0580
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0588, Recall=0.0357, F1=0.0444
+  Article 12: Precision=0.0714, Recall=0.1026, F1=0.0842
+  Article 13: Precision=0.1157, Recall=0.2414, F1=0.1564
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0992, Recall=0.2321, F1=0.1390
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0160, Recall=0.0328, F1=0.0215
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: gemini-2.5-pro-exp-03-25 ====
+Accuracy: 0.0889
+Macro-Precision: 0.0295
+Macro-Recall: 0.0588
+Macro-F1: 0.0380
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3368, Recall=0.7558, F1=0.4659
+  Article 6: Precision=0.2667, Recall=0.3175, F1=0.2899
+  Article 7: Precision=0.0288, Recall=0.1481, F1=0.0482
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.0200, Recall=0.0513, F1=0.0288
+  Article 13: Precision=0.0315, Recall=0.0690, F1=0.0432
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0098, Recall=0.0357, F1=0.0153
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0142, Recall=0.0328, F1=0.0198
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: gemini-2.5-pro-preview-05-06 ====
+Accuracy: 0.0985
+Macro-Precision: 0.0324
+Macro-Recall: 0.0649
+Macro-F1: 0.0418
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3439, Recall=0.7558, F1=0.4727
+  Article 6: Precision=0.2867, Recall=0.3413, F1=0.3116
+  Article 7: Precision=0.0296, Recall=0.1481, F1=0.0494
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0132, Recall=0.0357, F1=0.0192
+  Article 12: Precision=0.0200, Recall=0.0513, F1=0.0288
+  Article 13: Precision=0.0320, Recall=0.0690, F1=0.0437
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0302, Recall=0.1071, F1=0.0471
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0219, Recall=0.0492, F1=0.0303
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: gpt-4o ====
+Accuracy: 0.1098
+Macro-Precision: 0.0636
+Macro-Recall: 0.0427
+Macro-F1: 0.0480
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.3387, Recall=0.2442, F1=0.2838
+  Article 6: Precision=0.3462, Recall=0.2143, F1=0.2647
+  Article 7: Precision=0.1111, Recall=0.1111, F1=0.1111
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.2500, Recall=0.0357, F1=0.0625
+  Article 12: Precision=0.0645, Recall=0.0513, F1=0.0571
+  Article 13: Precision=0.1136, Recall=0.0862, F1=0.0980
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.1000, Recall=0.0357, F1=0.0526
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.2027, Recall=0.2459, F1=0.2222
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: o1 ====
+Accuracy: 0.0210
+Macro-Precision: 0.0571
+Macro-Recall: 0.0081
+Macro-F1: 0.0137
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.4000, Recall=0.0233, F1=0.0440
+  Article 6: Precision=0.3000, Recall=0.0238, F1=0.0441
+  Article 7: Precision=0.1000, Recall=0.0370, F1=0.0541
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.1111, Recall=0.0256, F1=0.0417
+  Article 13: Precision=0.1111, Recall=0.0172, F1=0.0299
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.1818, Recall=0.0357, F1=0.0597
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.1667, Recall=0.0328, F1=0.0548
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
+==== Model: qwen2.5-72b-instruct ====
+Accuracy: 0.0501
+Macro-Precision: 0.0426
+Macro-Recall: 0.0180
+Macro-F1: 0.0236
+
+Per-class metrics:
+  Article 0: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 5: Precision=0.4000, Recall=0.0930, F1=0.1509
+  Article 6: Precision=0.3617, Recall=0.1349, F1=0.1965
+  Article 7: Precision=0.1000, Recall=0.1111, F1=0.1053
+  Article 8: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 9: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 12: Precision=0.0556, Recall=0.0256, F1=0.0351
+  Article 13: Precision=0.0435, Recall=0.0172, F1=0.0247
+  Article 14: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 15: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 16: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 17: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 18: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 19: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 21: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 25: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 30: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 32: Precision=0.0625, Recall=0.0492, F1=0.0550
+  Article 33: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 35: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 44: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 46: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 58: Precision=0.0000, Recall=0.0000, F1=0.0000
+  Article 83: Precision=0.0000, Recall=0.0000, F1=0.0000
+
+Evaluation finished.
+
+
