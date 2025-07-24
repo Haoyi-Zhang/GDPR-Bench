@@ -10,28 +10,46 @@ def main(input_file='GDPR_dataset.json', output_file='task1_dataset.json'):
         data = json.load(f)
     print(f"Loaded {len(data)} entries from {input_file}")
     
-    # Group violations by repository
-    repos = {}
+    # Group violations by file (not by repository/commit)
+    file_groups = {}
     for entry in data:
-        key = (entry.get('repo_url',''), entry.get('app_name',''), entry.get('Commit_ID',''))
-        if key not in repos:
-            repos[key] = []
-        repos[key].append(entry)
+        file_path = entry.get('code_snippet_path','').split(':')[0].strip()
+        repo_url = entry.get('repo_url','')
+        app_name = entry.get('app_name','')
+        commit_id = entry.get('Commit_ID','')
+        
+        # Create unique key for each file across all repositories
+        # Use (repo_url, app_name, file_path) to ensure uniqueness
+        key = (repo_url, app_name, file_path)
+        
+        if key not in file_groups:
+            file_groups[key] = {
+                'repo_url': repo_url,
+                'app_name': app_name,
+                'commit_id': commit_id,  # Use the first commit_id found for this file
+                'file_path': file_path,
+                'violations': []
+            }
+        
+        file_groups[key]['violations'].append(entry)
     
-    # Process data for Task 1 format
+    print(f"Grouped into {len(file_groups)} unique files")
+    
+    # Process data for Task 1 format - one record per file
     task1_data = []
-    for (repo_url, app_name, commit_id), violations in repos.items():
-        # Group by file for file-level violations
-        file_violations = defaultdict(set)
+    for (repo_url, app_name, file_path), file_data in file_groups.items():
+        violations = file_data['violations']
+        
+        # Collect articles for file-level violations
+        file_articles = set()
         module_violations = defaultdict(set)
         line_violations = []
         
         for violation in violations:
-            file_path = violation.get('code_snippet_path','').split(':')[0].strip()
             article = violation.get('violated_article','')
             
             # Add to file-level violations
-            file_violations[file_path].add(article)
+            file_articles.add(article)
             
             # Extract module name (simplified approach - could be improved)
             code_path_parts = file_path.split('/')
@@ -46,8 +64,7 @@ def main(input_file='GDPR_dataset.json', output_file='task1_dataset.json'):
                     if method_hints:
                         module_name = method_hints[0].strip('.,():;')
                 
-                module_key = f"{file_path}:{module_name}"
-                module_violations[module_key].add(article)
+                module_violations[module_name].add(article)
             
             # Extract line spans (handle both 'line' and 'lines')
             code_path = violation.get('code_snippet_path','')
@@ -66,22 +83,21 @@ def main(input_file='GDPR_dataset.json', output_file='task1_dataset.json'):
                     "violation_description": violation.get('annotation_note','')
                 })
         
-        # Create the repository entry
-        repo_entry = {
-            "repo_url": repo_url,
-            "app_name": app_name,
-            "Commit_ID": commit_id,
+        # Create the file entry - one record per file
+        file_entry = {
+            "repo_url": file_data['repo_url'],
+            "app_name": file_data['app_name'],
+            "Commit_ID": file_data['commit_id'],
             "file_level_violations": [
-                {"file_path": file_path, "violated_articles": sorted(list(articles))}
-                for file_path, articles in file_violations.items()
+                {"file_path": file_path, "violated_articles": sorted(list(file_articles))}
             ],
             "module_level_violations": [
                 {
-                    "file_path": module_key.split(':')[0],
-                    "module_name": module_key.split(':')[1],
+                    "file_path": file_path,
+                    "module_name": module_name,
                     "violated_articles": sorted(list(articles))
                 }
-                for module_key, articles in module_violations.items()
+                for module_name, articles in module_violations.items()
             ],
             "line_level_violations": []
         }
@@ -98,16 +114,20 @@ def main(input_file='GDPR_dataset.json', output_file='task1_dataset.json'):
                     line_map[key]['violated_articles'] + violation['violated_articles']
                 )))
         
-        repo_entry['line_level_violations'] = list(line_map.values())
-        task1_data.append(repo_entry)
+        file_entry['line_level_violations'] = list(line_map.values())
+        task1_data.append(file_entry)
     
     # Write to task1_dataset.json
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(task1_data, f, indent=2, ensure_ascii=False)
     
-    print(f"Created {output_file} with {len(task1_data)} repositories")
+    print(f"Created {output_file} with {len(task1_data)} files")
+    print(f"Each record contains exactly one file with its three violation levels:")
+    print(f"- File-level violations")
+    print(f"- Module-level violations") 
+    print(f"- Line-level violations")
 
 if __name__ == "__main__":
     input_file = sys.argv[1] if len(sys.argv) > 1 else 'GDPR_dataset.json'
     output_file = sys.argv[2] if len(sys.argv) > 2 else 'task1_dataset.json'
-    main(input_file, output_file) 
+    main(input_file, output_file)

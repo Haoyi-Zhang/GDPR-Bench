@@ -1,0 +1,282 @@
+================================================================================
+GDPR COMPLIANCE DETECTION DATASET ANALYSIS REPORT
+================================================================================
+Generated on: 2025-07-24 13:49:31
+
+1. ORIGINAL GDPR DATASET ANALYSIS
+--------------------------------------------------
+Total samples: 545
+Unique applications: 7
+Unique repositories: 7
+Unique commits: 36
+
+Top 10 most frequent applications:
+  Android_Spy_App: 150 violations
+  Dash: 109 violations
+  rdroid: 102 violations
+  pounce-keys: 83 violations
+  Rafel_Rat: 50 violations
+  PrivacyBreacher: 30 violations
+  L3MON: 21 violations
+
+GDPR Article distribution:
+  Article 5: 89 violations
+  Article 6: 126 violations
+  Article 7: 27 violations
+  Article 8: 3 violations
+  Article 9: 28 violations
+  Article 12: 39 violations
+  Article 13: 58 violations
+  Article 14: 15 violations
+  Article 15: 13 violations
+  Article 16: 1 violations
+  Article 17: 6 violations
+  Article 18: 1 violations
+  Article 19: 1 violations
+  Article 21: 1 violations
+  Article 25: 56 violations
+  Article 30: 5 violations
+  Article 32: 61 violations
+  Article 33: 4 violations
+  Article 35: 4 violations
+  Article 44: 3 violations
+  Article 46: 2 violations
+  Article 58: 1 violations
+  Article 83: 1 violations
+
+File extension distribution:
+  .kt: 236 files
+  .php: 121 files
+  .java: 100 files
+  .xml: 43 files
+  .js: 24 files
+  .html: 11 files
+  .py: 9 files
+  .h: 1 files
+
+Code snippet length statistics:
+  Length: count=545, min=12.0, max=454.0, mean=148.4, median=120.0
+
+Annotation length statistics:
+  Length: count=545, min=86.0, max=684.0, mean=202.5, median=171.0
+
+2. TASK 1 DATASET ANALYSIS (Multi-granularity Violation Detection)
+----------------------------------------------------------------------
+Total samples: 98
+Unique applications: 7
+Unique repositories: 7
+Unique commits: 36
+
+Violation counts by granularity:
+  File-level violations: 98
+  Module-level violations: 98
+  Line-level violations: 258
+
+File-level GDPR Article distribution:
+  Article 5: 57 violations
+  Article 6: 76 violations
+  Article 7: 27 violations
+  Article 8: 3 violations
+  Article 9: 20 violations
+  Article 12: 33 violations
+  Article 13: 52 violations
+  Article 14: 10 violations
+  Article 15: 10 violations
+  Article 16: 1 violations
+  Article 17: 6 violations
+  Article 18: 1 violations
+  Article 19: 1 violations
+  Article 21: 1 violations
+  Article 25: 51 violations
+  Article 30: 4 violations
+  Article 32: 45 violations
+  Article 33: 3 violations
+  Article 35: 4 violations
+  Article 44: 3 violations
+  Article 46: 1 violations
+  Article 58: 1 violations
+  Article 83: 1 violations
+
+Module-level GDPR Article distribution:
+  Article 5: 57 violations
+  Article 6: 76 violations
+  Article 7: 27 violations
+  Article 8: 3 violations
+  Article 9: 20 violations
+  Article 12: 33 violations
+  Article 13: 52 violations
+  Article 14: 10 violations
+  Article 15: 10 violations
+  Article 16: 1 violations
+  Article 17: 6 violations
+  Article 18: 1 violations
+  Article 19: 1 violations
+  Article 21: 1 violations
+  Article 25: 51 violations
+  Article 30: 4 violations
+  Article 32: 45 violations
+  Article 33: 3 violations
+  Article 35: 4 violations
+  Article 44: 3 violations
+  Article 46: 1 violations
+  Article 58: 1 violations
+  Article 83: 1 violations
+
+Line-level GDPR Article distribution:
+  Article 5: 86 violations
+  Article 6: 126 violations
+  Article 7: 27 violations
+  Article 8: 3 violations
+  Article 9: 28 violations
+  Article 12: 39 violations
+  Article 13: 58 violations
+  Article 14: 15 violations
+  Article 15: 13 violations
+  Article 16: 1 violations
+  Article 17: 6 violations
+  Article 18: 1 violations
+  Article 19: 1 violations
+  Article 21: 1 violations
+  Article 25: 56 violations
+  Article 30: 5 violations
+  Article 32: 61 violations
+  Article 33: 4 violations
+  Article 35: 4 violations
+  Article 44: 3 violations
+  Article 46: 2 violations
+  Article 58: 1 violations
+  Article 83: 1 violations
+
+Unique file paths: 98
+Unique module names: 85
+
+Line span patterns (top 10):
+  7: 8 occurrences
+  5: 7 occurrences
+  6: 7 occurrences
+  4: 5 occurrences
+  19: 5 occurrences
+  22: 4 occurrences
+  37: 4 occurrences
+  46: 3 occurrences
+  65: 3 occurrences
+  48: 3 occurrences
+
+Violation description length statistics:
+  Length: count=258, min=98.0, max=627.0, mean=199.6, median=171.0
+
+3. TASK 2 DATASET ANALYSIS (Snippet-level Multi-label Classification)
+----------------------------------------------------------------------
+Total samples: 258
+Unique applications: 7
+Unique repositories: 7
+Unique commits: 36
+
+Top 10 most frequent applications:
+  Dash: 61 violations
+  Android_Spy_App: 53 violations
+  rdroid: 49 violations
+  pounce-keys: 43 violations
+  Rafel_Rat: 28 violations
+  PrivacyBreacher: 17 violations
+  L3MON: 7 violations
+
+GDPR Article distribution:
+  Article 5: 86 violations
+  Article 6: 126 violations
+  Article 7: 27 violations
+  Article 8: 3 violations
+  Article 9: 28 violations
+  Article 12: 39 violations
+  Article 13: 58 violations
+  Article 14: 15 violations
+  Article 15: 13 violations
+  Article 16: 1 violations
+  Article 17: 6 violations
+  Article 18: 1 violations
+  Article 19: 1 violations
+  Article 21: 1 violations
+  Article 25: 56 violations
+  Article 30: 5 violations
+  Article 32: 61 violations
+  Article 33: 4 violations
+  Article 35: 4 violations
+  Article 44: 3 violations
+  Article 46: 2 violations
+  Article 58: 1 violations
+  Article 83: 1 violations
+
+Violations per sample distribution:
+  1 violation(s): 138 samples
+  2 violation(s): 39 samples
+  3 violation(s): 44 samples
+  4 violation(s): 19 samples
+  5 violation(s): 11 samples
+  6 violation(s): 2 samples
+  7 violation(s): 1 samples
+  8 violation(s): 1 samples
+  9 violation(s): 2 samples
+  18 violation(s): 1 samples
+
+File extension distribution:
+  .kt: 104 files
+  .php: 59 files
+  .java: 50 files
+  .xml: 24 files
+  .js: 10 files
+  .py: 6 files
+  .html: 4 files
+  .h: 1 files
+
+Code snippet length statistics:
+  Length: count=258, min=12.0, max=454.0, mean=139.1, median=106.0
+
+Unique file paths: 98
+
+Line pattern distribution (top 10):
+  line 7: 8 occurrences
+  line 5: 7 occurrences
+  line 6: 7 occurrences
+  line 4: 5 occurrences
+  line 19: 5 occurrences
+  line 22: 4 occurrences
+  line 37: 4 occurrences
+  line 46: 3 occurrences
+  line 65: 3 occurrences
+  line 48: 3 occurrences
+
+4. CROSS-DATASET COMPARISON
+------------------------------
+Original dataset size: 545
+Task 1 dataset size: 98
+Task 2 dataset size: 258
+
+Common applications across datasets:
+  Applications in all datasets: 7
+    Android_Spy_App
+    Dash
+    L3MON
+    PrivacyBreacher
+    Rafel_Rat
+    pounce-keys
+    rdroid
+
+Common repositories across datasets:
+  Repositories in all datasets: 7
+    https://github.com/NullPounce/pounce-keys
+    https://github.com/abhinavsuthar/Android_Spy_App
+    https://github.com/efxtv/L3MON
+    https://github.com/m301/rdroid
+    https://github.com/muneebwanee/Dash
+    https://github.com/nandan-desai-extras/PrivacyBreacher
+    https://github.com/swagkarna/Rafel-Rat
+
+GDPR Article coverage analysis:
+  Articles in original dataset: [5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 30, 32, 33, 35, 44, 46, 58, 83]
+  Articles in Task 1 dataset: [5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 30, 32, 33, 35, 44, 46, 58, 83]
+  Articles in Task 2 dataset: [5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 30, 32, 33, 35, 44, 46, 58, 83]
+  Articles in all datasets: [5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 21, 25, 30, 32, 33, 35, 44, 46, 58, 83]
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
