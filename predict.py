@@ -1064,14 +1064,8 @@ def main():
         "deepseek-r1"
     ]
     key_list = [
-        "sk-BRFFjAxjAguWQk23Sif3R3wv8aP8Gipy0ZZtEeNEEdBKBDAD",
-        "sk-syuksdhx24A2FLVWq0FGSvmOqKYhsmIuK07yjY2LtOMJMz0Y",
-        "sk-0lAbUa53Hw9qfsoh9qN96zbVJpIzi1hJtPhn4AMvogtyaJhc",
-        "sk-ZjhZmCBt43MIedRRf9MUD4zSsEwVoulxsfqPSMZ9ZnWlyWN6",
-        "sk-RLbj6DHGcW6ja7EB8AsbZeoFeVxgpCxfDgN4R4vbcgA9vjgR",
-        "sk-b9YFtKQMX89OfMPcxhNkXcoZWzrXHcWEIoTLYMSBrMnP1ZwJ",
-        "sk-yAkzGPT4cEaTFaN5Mdebs4XAnTYnOCi8Nhs8A5bETnkJRBkv",
-        "sk-u0XvQPdfYMQQmtLz3L7TosxTXb9qEM62xtauR3f5FJJ4WvZe"
+    # Your OpenAI API keys go here
+    # Example: "sk-************************************"
     ]
     model_to_key = dict(zip(model_list, key_list))
     main_logger.info(f"Configured {len(model_list)} models: {model_list}")
